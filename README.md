@@ -1,20 +1,5 @@
-# DSA_SparseMatrix
-Data Structures and Algorithms
 Overview
-This project implements memory-efficient sparse matrix operations in Python. It uses a Dictionary of Keys (DOK) format to store only non-zero elements, making it suitable for large sparse matrices.
-
-📁 Project Structure
-dsa/sparse_matrix/
-├── code/
-│   └── src/
-│       ├── main.py         # Main program with user interface
-│       └── sparse_matrix.py # Core sparse matrix implementation
-├── sample_inputs/          # Sample matrix input files 
-│   ├── matrix1.txt
-│   ├── matrix2.txt
-│   └── matrix3.txt
-├── results/               # Generated results from operations
-└── README.md            
+This project implements memory-efficient sparse matrix operations in Python. It uses a Dictionary of Keys (DOK) format to store only non-zero elements, making it suitable for large sparsematrices      
 Getting Started
 
 Installation
@@ -106,4 +91,5 @@ Efficient memory usage for large sparse matrices
 Fast access to elements using dictionary
 📄 License
 This project is for educational purposes. Feel free to learn from it!
+
 
