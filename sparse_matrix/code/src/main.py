@@ -226,7 +226,7 @@ def perform_operation(operation: str) -> Optional[SparseMatrix]:
 def main() -> None:
     """Let's get calculating! 🚀"""
     print("🎉 Welcome to Sparse Matrix Calculator! 🎉")
-    print("Made with ❤️  by Ratchie")
+    print("Made with ❤️  by Ratchie.T")
     print("Last updated: 2025-05")
     
     while True:
